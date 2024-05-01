@@ -147,7 +147,6 @@
 
  <h2 align="center"> Navegação Projetos :link:</h2>
  
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/Valdineynascimento/Portfolio/blob/main/API_1.md"> 1º Semestre: Vai de Van - App que visa facilitar a comunicação e organização de viagens entre motoristas de vans escolares e seus usuários.</a></li></p>
    <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/Valdineynascimento/Portfolio/blob/main/API_2.md"> 2º Semestre: ConsultCAR - É uma aplicação criada com intuito de facilitar a descompactação, armazenamento e visualização de dados obtidos do Sistema Nacional de Cadastro ambiental Rural (SICAR).</a></li></p>
    <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/Valdineynascimento/Portfolio/blob/main/API_3.md"> 3° Semestre: ScrumCloud - É uma Aplicação Web que permite a realização das cerimônias de Planning e Retrospective,  remotamente.</a></li></p>
    <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/Valdineynascimento/Portfolio/blob/main/API_4.md"> 4° Semestre: Hey Alexia - É uma ferramenta desenvolvida para importação de Dados através de arquivo CSV, e com intuito de auxiliar a Gestão na tomada de decisão.</a></li></p>
