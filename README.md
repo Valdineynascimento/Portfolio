@@ -65,6 +65,8 @@
    <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/Valdineynascimento/Portfolio/blob/main/API_2.md"> 2º Semestre: ConsultCAR - É uma aplicação criada com intuito de facilitar a descompactação, armazenamento e visualização de dados obtidos do Sistema Nacional de Cadastro ambiental Rural (SICAR).</a></li></p>
    <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/Valdineynascimento/Portfolio/blob/main/API_3.md"> 3° Semestre: ScrumCloud - É uma Aplicação Web que permite a realização das cerimônias de Planning e Retrospective, utilizadas na metodologia SCRUM, remotamente às equipes onde seus integrantes estão geograficamente distantes.</a></li></p>
    <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/Valdineynascimento/Portfolio/blob/main.md"> 4° Semestre: Hey Alexia - É uma ferramenta desenvolvida para importação de Dados através de arquivo CSV, e com intuito de auxiliar a Gestão na tomada de decisão.</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/Valdineynascimento/Portfolio/blob/main/API_5.md"> 5° Semestre: Hextaurant - É uma Aplicação web com objetivo abrangente que ofereça recursos como dashboards, gráficos, relatórios e funcionalidades para gerenciamento de pessoal, fornecedores e suprimentos.</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/Valdineynascimento/Portfolio/blob/main/API_6.md"> 6° Semestre: HexAnalitics - É uma plataforma web desenvolvida para analisar automaticamente os comentários, classificando-os e gerar gráficos relevantes, e com intuito de auxiliar a Gestão na tomada de decisão.</a></li></p>
    
 
 </body>
