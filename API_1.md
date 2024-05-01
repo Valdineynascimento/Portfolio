@@ -45,7 +45,7 @@
     <details>
     <summary>Telas Prototipadas</summary>
     <br>
-    <img style= "borde-radius: 50%;" src="https://github.com/Valdineynascimento/bertoti/blob/main/Metodologia/Imagens/Telas%20figma%20geral.jpg" width="800px; " alt=""/>
+    <img style= "borde-radius: 50%;" src="https://github.com/Valdineynascimento/Portfolio/tree/main/images/Telas%20figma%20geral.jpg" width="800px; " alt=""/>
     </details></ul>
    <ul>
     <details>
