@@ -25,7 +25,7 @@
   
   <table align="center">
    <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/valdiney-jos%C3%A9-do-nascimento-68a136214/"><img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/bertoti/tree/main/Metodologia/Imagens/ValdineyNascimento.jpeg" width="200px;" alt=""/><br/><b>Valdiney Nascimento</b></a>
+    <td align="center"><a href="https://www.linkedin.com/in/valdiney-jos%C3%A9-do-nascimento-68a136214/"><img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/Portfolio/blob/main/images/ValdineyNascimento.jpeg" width="200px;" alt=""/><br/><b>Valdiney Nascimento</b></a>
       <br/>
       Back-end Developer
      </td>
@@ -61,10 +61,10 @@
 
  <h2 align="center"> Projetos Trabalhados :books:</h2>
  
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/Valdineynascimento/bertoti/blob/main/Metodologia/API_1.md"> 1º Semestre: Vai de Van - App que visa facilitar a comunicação e organização de viagens entre motoristas de vans escolares e seus usuários.</a></li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/Valdineynascimento/bertoti/blob/main/Metodologia/API_2.md"> 2º Semestre: ConsultCAR - É uma aplicação criada com intuito de facilitar a descompactação, armazenamento e visualização de dados obtidos do Sistema Nacional de Cadastro ambiental Rural (SICAR).</a></li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/Valdineynascimento/bertoti/blob/main/Metodologia/API_3.md"> 3° Semestre: ScrumCloud - É uma Aplicação Web que permite a realização das cerimônias de Planning e Retrospective, utilizadas na metodologia SCRUM, remotamente às equipes onde seus integrantes estão geograficamente distantes.</a></li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/Valdineynascimento/bertoti/blob/main/Metodologia/API_4.md"> 4° Semestre: Hey Alexia - É uma ferramenta desenvolvida para importação de Dados através de arquivo CSV, e com intuito de auxiliar a Gestão na tomada de decisão.</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/Valdineynascimento/Portfolio/blob/main/API_1.md"> 1º Semestre: Vai de Van - App que visa facilitar a comunicação e organização de viagens entre motoristas de vans escolares e seus usuários.</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/Valdineynascimento/Portfolio/blob/main/API_2.md"> 2º Semestre: ConsultCAR - É uma aplicação criada com intuito de facilitar a descompactação, armazenamento e visualização de dados obtidos do Sistema Nacional de Cadastro ambiental Rural (SICAR).</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/Valdineynascimento/Portfolio/blob/main/API_3.md"> 3° Semestre: ScrumCloud - É uma Aplicação Web que permite a realização das cerimônias de Planning e Retrospective, utilizadas na metodologia SCRUM, remotamente às equipes onde seus integrantes estão geograficamente distantes.</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/Valdineynascimento/Portfolio/blob/main.md"> 4° Semestre: Hey Alexia - É uma ferramenta desenvolvida para importação de Dados através de arquivo CSV, e com intuito de auxiliar a Gestão na tomada de decisão.</a></li></p>
    
 
 </body>

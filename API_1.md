@@ -45,13 +45,13 @@
     <details>
     <summary>Telas Prototipadas</summary>
     <br>
-    <img style= "borde-radius: 50%;" src="https://github.com/Valdineynascimento/Portfolio/tree/main/images/Telas%20figma%20geral.jpg" width="800px; " alt=""/>
+    <img style= "borde-radius: 50%;" src="https://github.com/Valdineynascimento/Portfolio/blob/main/images/telasFigmaGeral.jpg" width="800px; " alt=""/>
     </details></ul>
    <ul>
     <details>
     <summary>Telas com fluxo de transição</summary>
     <br>
-    <img style= "borde-radius: 50%;" src="https://github.com/Valdineynascimento/bertoti/blob/main/Metodologia/Imagens/Telas%20figma%20geral%20e%20fluxo.jpg" width="800px; " alt=""/>
+    <img style= "borde-radius: 50%;" src="https://github.com/Valdineynascimento/Portfolio/blob/main/images/telasFigmaGeralEFluxo.jpg" width="800px; " alt=""/>
     </details></ul>
     
   <ul>
@@ -60,7 +60,7 @@
     <details>
     <summary>Github Coffeend</summary>
     <br>
-    <img style= "borde-radius: 50%;" src="https://github.com/Valdineynascimento/bertoti/blob/main/Metodologia/Imagens/Github%20Coffeend.JPG" width="800px; " alt=""/>
+    <img style= "borde-radius: 50%;" src="https://github.com/Valdineynascimento/Portfolio/blob/main/images/githubCoffeend.JPG" width="800px; " alt=""/>
     </details></ul>
   <ul>
   <li><p align="justify" style="font-family:roboto;"> A Plataforma MIT App Inventor foi utilizada para criar a aplicação, a primeira parte deste desafio foi tirar o  protótipo do papel e criá-las na plataforma, cada integrante criou pelo menos uma tela, como eu não conhecia nada da plataforma procurei por vídeos  criar comecei a ter noção de programação, onde fiz a programação de duas telas do projeto.</ul></li></p>
@@ -68,13 +68,13 @@
     <details>
     <summary>Telas no MIT</summary>
     <br>
-    <img style= "borde-radius: 50%;" src="https://github.com/Valdineynascimento/bertoti/blob/main/Metodologia/Imagens/Telas%20no%20MIT.JPG" width="800px; " alt=""/>
+    <img style= "borde-radius: 50%;" src="https://github.com/Valdineynascimento/Portfolio/blob/main/images/telasNoMIT.JPG" width="800px; " alt=""/>
     </details></ul>
     <ul>
     <details>
     <summary>Código em blocos no MIT</summary>
     <br>
-    <img style= "borde-radius: 50%;" src="https://github.com/Valdineynascimento/bertoti/blob/main/Metodologia/Imagens/Progamação%20em%20blocos.jpg" width="800px; " alt=""/>
+    <img style= "borde-radius: 50%;" src="https://github.com/Valdineynascimento/Portfolio/blob/main/images/progama%C3%A7%C3%A3oEmBlocos.jpg" width="800px; " alt=""/>
     </details></ul>
   <ul>
   <li><p align="justify" style="font-family:roboto;"> Introdução a metodologia Scrum, aprendi alguns conceitos como; (daily meet) pequenas reuniões diárias, (sprints) divisão da entrega do projeto em partes e quebra das User Stories, da Sprint, em Tasks.</ul></li></p>
@@ -147,11 +147,13 @@
 
  <h2 align="center"> Navegação Projetos :link:</h2>
  
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/Valdineynascimento/bertoti/blob/main/Metodologia/API_1.md"> 1º Semestre: Vai de Van - App que visa facilitar a comunicação e organização de viagens entre motoristas de vans escolares e seus usuários.</a></li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/Valdineynascimento/bertoti/blob/main/Metodologia/API_2.md"> 2º Semestre: ConsultCAR - É uma aplicação criada com intuito de facilitar a descompactação, armazenamento e visualização de dados obtidos do Sistema Nacional de Cadastro ambiental Rural (SICAR).</a></li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/Valdineynascimento/bertoti/blob/main/Metodologia/API_3.md"> 3° Semestre: ScrumCloud - É uma Aplicação Web que permite a realização das cerimônias de Planning e Retrospective,  remotamente.</a></li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/Valdineynascimento/bertoti/blob/main/Metodologia/API_4.md"> 4° Semestre: Hey Alexia - É uma ferramenta desenvolvida para importação de Dados através de arquivo CSV, e com intuito de auxiliar a Gestão na tomada de decisão.</a></li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/Valdineynascimento/bertoti/blob/main/Metodologia/README.md"> Voltar para página inicial</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/Valdineynascimento/Portfolio/blob/main/API_1.md"> 1º Semestre: Vai de Van - App que visa facilitar a comunicação e organização de viagens entre motoristas de vans escolares e seus usuários.</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/Valdineynascimento/Portfolio/blob/main/API_2.md"> 2º Semestre: ConsultCAR - É uma aplicação criada com intuito de facilitar a descompactação, armazenamento e visualização de dados obtidos do Sistema Nacional de Cadastro ambiental Rural (SICAR).</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/Valdineynascimento/Portfolio/blob/main/API_3.md"> 3° Semestre: ScrumCloud - É uma Aplicação Web que permite a realização das cerimônias de Planning e Retrospective,  remotamente.</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/Valdineynascimento/Portfolio/blob/main/API_4.md"> 4° Semestre: Hey Alexia - É uma ferramenta desenvolvida para importação de Dados através de arquivo CSV, e com intuito de auxiliar a Gestão na tomada de decisão.</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/Valdineynascimento/Portfolio/blob/main/API_5.md"> 4° Semestre: Hey Alexia - É uma ferramenta desenvolvida para importação de Dados através de arquivo CSV, e com intuito de auxiliar a Gestão na tomada de decisão.</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/Valdineynascimento/Portfolio/blob/main/API_6.md"> 4° Semestre: Hey Alexia - É uma ferramenta desenvolvida para importação de Dados através de arquivo CSV, e com intuito de auxiliar a Gestão na tomada de decisão.</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/Valdineynascimento/Portfolio/blob/main/README.md"> Voltar para página inicial</a></li></p>
   
 </body>
 </html>
