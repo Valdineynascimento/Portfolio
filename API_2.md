@@ -43,7 +43,7 @@
   <details>
   <summary>Clique aqui para visualizar o padrão de projetos DAO</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/Portfolio/blob/main/Imagens/API2Sem-DAO.png" width="200px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/Portfolio/blob/main/images/API2Sem-DAO.png" width="200px;" alt=""/>
   </details>
   
   <p align="justify" style="font-family:roboto;">Logo, participei dos seguintes processos:</p>
@@ -56,7 +56,7 @@
   <details>
   <summary>Clique aqui para visualizar a organização de uma Sprint no Trello</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/Portfolio/blob/main/Imagens/TrelloAPI2.png" width="1000px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/Portfolio/blob/main/images/TrelloAPI2.png" width="1000px;" alt=""/>
   </details>
   
  <h2 style="font-family:roboto;"> Funcionamento :bulb:</h2>
