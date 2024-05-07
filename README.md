@@ -1,26 +1,15 @@
 <html>
 <body>
 
- <h4 style="font-family:roboto;">
-  
- - Aluno: Valdiney José do Nascimento :man_student:
- - RA: 1460282023011
-
- - Disciplina: Metodologia da Pesquisa Cientifico Tecnologica
- - Professor: Giuliano Araujo Bertoti
- - Banco de Dados - 4º Semestre
-
- </h4>
-  
-  --- 
+ --- 
   
  <h1 align="center"> Portfólio API's Banco de Dados - Valdiney José do Nascimento</h1>  
   <h4 align="justify" style="font-family:roboto;"> Trabalho de graduação na modalidade Portfólio dos projetos realizados com a metodologia Aprendizagem por Projetos Integrados (API), necessário como parte dos requisitos para obtenção do título de Tecnólogo em Banco de Dados pela Faculdade de Tecnologia de São José dos Campos.</h4>
   
   <h2> Autor :necktie: </h2>
   
-  <p align="justify" style="font-family:roboto;"> Meu nome é Valdiney Nascimento, tenho 42 anos e estou cursando o 5º semestre de Banco de dados. Tenho formação técnica em Transações Imobiliarias pela <a href="https://www.vestibulinhoetec.com.br/home/">ETC - Escola Técnica Estadual</a>. Atualmente ingresso na <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC São José dos Campos - Prof. Jessen Vidal</a> com início no 2º Semestre/2020.</p>
-  <p align="justify" style="font-family:roboto;"> Durante a realização do curso adquiri diversos conhecimentos sobre tecnologias, metodologias, ferramentas e boas práticas de desenvolvimento. Com a abordagem de Aprendizagem por Projetos Integrados, tive a oportunidade de colocar em prática os aprendizados expostos em sala de aula e assim contribuir com a equipe em soluções para problemas reais do mercado de trabalho, tendo como clientes empresas parceiras da faculdade. </p>
+  <p align="justify" style="font-family:roboto;"> Meu nome é Valdiney Nascimento, tenho 43 anos e estou cursando o 6º semestre de Banco de dados. Tenho formação técnica em Transações Imobiliarias pela <a href="https://www.vestibulinhoetec.com.br/home/">ETC - Escola Técnica Estadual</a>. Ingressei na <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC São José dos Campos - Prof. Jessen Vidal</a> no 2º Semestre/2020.</p>
+  <p align="justify" style="font-family:roboto;"> Durante a realização do curso adquiri diversos conhecimentos em diferentes tecnologias, metodologias, ferramentas e boas práticas de desenvolvimento. Com a abordagem de Aprendizagem por Projetos Integrados, tive a oportunidade de colocar em prática os aprendizados expostos em sala de aula e assim contribuir com a equipe para a soluções de problemas reais do mercado de trabalho, tendo como clientes empresas parceiras da faculdade. </p>
   <p align="justify" style="font-family:roboto;"> Atualmente sou Empregado Público na <a href="https://fundacaocasa.sp.gov.br/">Fundação CASA</a>, desempenhando a função de Agente Administrativo no setor de Almoxarifado.</p>
   
   <table align="center">
