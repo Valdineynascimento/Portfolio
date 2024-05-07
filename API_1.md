@@ -7,7 +7,7 @@
   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
-  <p align="justify" style="font-family:roboto;"> Aplicação Mobile voltada para facilitar  integração entre motorista e passageiros, onde o motorista poderá acessar às informações de todos os passageiros de forma rápida e prática e da mesma forma poderá avisar aos seus usuários o horário previsto de chegada e também informar de alguns imprevistos através de mensagens padronizadas. O passageiro poderá informar ao motorista, através do app e de forma muito rápida, que não irá naquela ou em determinada viajem. 
+  <p align="justify" style="font-family:roboto;"> Desenvolvimento de uma aplicação Mobile voltada para facilitar  integração entre motorista e passageiros, onde o motorista poderá acessar às informações de todos os passageiros de forma rápida e prática e da mesma forma poderá avisar aos seus usuários o horário previsto de chegada e também informar de alguns imprevistos através de mensagens padronizadas. O passageiro poderá informar ao motorista, através do app e de forma muito rápida, que não irá naquela ou em determinada viajem. 
   <p align="justify" style="font-family:roboto;"> As funcionalidades desenvolvidas foram: 
   <ul>
     <li>Mostrar lista de passageiros;</li>
@@ -95,51 +95,43 @@
     </tr>
     <tr>
       <td>Metodologia Scrum</td>
-      <td>★★★★☆☆☆☆☆☆</td>
+      <td>Entendi</td>
     </tr>
     <tr>
       <td>Java</td>
-      <td>★★★★☆☆☆☆☆☆</td>
+      <td>Entendi</td>
     </tr>
     <tr>
       <td>App Inventor</td>
-      <td>★★★★☆☆☆☆☆☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>
     <tr>
       <td>Figma</td>
-      <td>★★★★☆☆☆☆☆☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>
     <tr>
       <td>GIT</td>
-      <td>★★★★☆☆☆☆☆☆</td>
+      <td>Entendi</td>
     </tr>
   </table>
   
   <h3 align="center">Soft Skills</h3>
   <table align="center">
     <tr>
-      <th width="300px">Habilidade</th>
-      <th width="300px">Classificação</th>
+      <th width="200px">Habilidade</th>
+      <th width="400px">Classificação</th>
     </tr>
     <tr>
       <td>Proatividade</td>
-      <td>★★★★★☆☆☆☆☆</td>
+      <td align="justify">Busquei conhecimento extra para resolução das tarefas.</td>
     </tr>
     <tr>
       <td>Visão de Negócio</td>
-      <td>★★★★☆☆☆☆☆☆</td>
+      <td align="justify">Durante o trabalho em equipe, percebi como pode variar o entendimento de uma tarefa de um integrante para outro, o que me ressaltou a importância da comunicação.</td>
     </tr>
     <tr>
       <td>Comunicação</td>
-      <td>★★★★★☆☆☆☆☆</td>
-    </tr>
-    <tr>
-      <td>Organização</td>
-      <td>★★★★★☆☆☆☆☆</td>
-    </tr>
-    <tr>
-      <td>Planejamento</td>
-      <td>★★★★☆☆☆☆☆☆</td>
+      <td align="justify">Precisei me comunicar com a equipe sobre as tarefas buscando clareza e simplicidade.</td>
     </tr>
   </table>
   
