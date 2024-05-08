@@ -28,7 +28,7 @@
     <p align="justify" style="font-family:roboto;"> Ambiente de desenvolvimento integrado para elaboração de aplicações Android nativas. Tendo o Java como linguagem back-end, utiliza a biblioteca Java Open Block. Foi aplicado para o desenvolvimento do app.</p></li>
   </li>
 
-   <li><a href="https://trello.com">Figma</a>:
+   <li><a href="https://trello.com/pt-BR">Trello</a>:
     <p align="justify" style="font-family:roboto;"> Foi utilizado como ferramenta do método Scrum para distribuição de atividades ao grupo e priorização das demandas. Possibilitando realizar o planejamento das sprints, sendo capaz de registrar o progresso da equipe e do projeto, facilitando o desenvolvimento e acompanhamento de tarefas . </p></li>
   </li>
 
@@ -123,7 +123,7 @@
     </tr>
     <tr>
       <td>Proatividade</td>
-      <td align="justify">Busquei conhecimento extra para resolução das tarefas.</td>
+      <td align="justify">Busquei conhecimento extra para resolução das tarefas do projeto.</td>
     </tr>
     <tr>
       <td>Visão de Negócio</td>
@@ -131,7 +131,7 @@
     </tr>
     <tr>
       <td>Comunicação</td>
-      <td align="justify">Precisei me comunicar com a equipe sobre as tarefas buscando clareza e simplicidade.</td>
+      <td align="justify">Precisei me comunicar com a equipe sobre as tarefas buscando clareza e simplicidade para um melhor entendimento.</td>
     </tr>
   </table>
   
