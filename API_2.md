@@ -75,19 +75,19 @@
     </tr>
     <tr>
       <td>Metodologia Scrum</td>
-      <td>★★★★☆☆☆☆☆☆</td>
+      <td>Entendi</td>
     </tr>
     <tr>
       <td>Java</td>
-      <td>★★★★★☆☆☆☆☆</td>
+      <td>Entendi</td>
     </tr>    
     <tr>
       <td>PostgreSQL</td>
-      <td>★★★★☆☆☆☆☆☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>
      <tr>
       <td>GIT</td>
-      <td>★★★★★☆☆☆☆☆</td>
+      <td>Entendi</td>
     </tr>
   </table>
   
@@ -99,15 +99,15 @@
     </tr>
     <tr>
       <td>Proatividade</td>
-      <td>★★★★☆☆☆☆☆☆</td>
+      <td align="justify">Busquei conhecimento extra para resolução das tarefas do projeto.</td>
     </tr>
     <tr>
       <td>Visão de Negócio</td>
-      <td>★★★★★☆☆☆☆☆</td>
+      <td align="justify">Durante o trabalho em equipe, percebi como pode variar o entendimento de uma tarefa de um integrante para outro, o que me ressaltou a importância da comunicação./td>
     </tr>
     <tr>
       <td>Comunicação</td>
-      <td>★★★★★☆☆☆☆☆</td>
+      <td align="justify">Precisei me comunicar com a equipe sobre as tarefas buscando clareza e simplicidade para um melhor entendimento.</td>
     </tr>
     <tr>
       <td>Organização</td>
