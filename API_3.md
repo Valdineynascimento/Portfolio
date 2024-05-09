@@ -8,9 +8,8 @@
   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
-  <p align="justify" style="font-family:roboto;"> A aplicação web desenvovida permite que equipes remotas de desenvolvimento realizarem as cerimônias de Planning e Retrospective aplicadas na metodologia SCRUM.
-
-  A aplicação permiti o cadastro de membros de equipes, agendamento e realização (real-time) de reuniões com configuração de métricas customizáveis e exportação dos resumos para os integrantes das mesmas.</p>
+  <p align="justify" style="font-family:roboto;"> A aplicação web desenvovida permite que equipes remotas de desenvolvimento realizarem as cerimônias de Planning e Retrospective aplicadas na metodologia SCRUM. A 
+  aplicação permiti o cadastro de membros de equipes, agendamento e realização (real-time) de reuniões com configuração de métricas customizáveis e exportação dos resumos para os integrantes das mesmas.</p>
   
   <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
    
@@ -41,7 +40,7 @@
   <details>
   <summary>Clique aqui para visualizar a Lógica Arquitetural MVC</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/Portfolio/blob/main/Imagens/DiagramaArq.png" width="500px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/Portfolio/blob/main/images/DiagramaArq.png" width="500px;" alt=""/>
   </details>
   
   <ul>
@@ -62,14 +61,14 @@
   <details>
   <summary>Clique aqui para visualizar o Padrão de Projeto Proxy</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/Portfolio/blob/main/Imagens/PadraoProxy.png" width="800px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/Portfolio/blob/main/images/PadraoProxy.png" width="800px;" alt=""/>
   </details>
   
   <p align="justify" style="font-family:roboto;"> A seguir, foram configuradas as Properties, para as quais foram aplicadas a conexão com a Base de Dados MySQL. Declaramos a versão da linguagem do Banco (org.hibernate.dialect.MySQL5InnoDBDialect).</p>
   <details>
   <summary>Clique aqui para visualizar as Properties</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/Portfolio/blob/main/Imagens/PropertiesAPI3.png" width="800px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/Portfolio/blob/main/images/PropertiesAPI3.png" width="800px;" alt=""/>
   </details>
   
    
@@ -90,23 +89,23 @@
     </tr>
     <tr>
       <td>Metodologia Scrum</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>Entendi</td>
     </tr>
     <tr>
       <td>Java</td>
-      <td>★★★★★☆☆☆☆☆</td>
+      <td>Entendi</td>
     </tr>
     <tr>
       <td>Spring Boot</td>
-      <td>★★★★★☆☆☆☆☆</td>
+      <td>Entendi</td>
     </tr>
     <tr>
       <td>MySQL</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>
      <tr>
       <td>GIT</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>Entendi</td>
     </tr>
   </table>
   
@@ -118,7 +117,7 @@
     </tr>
     <tr>
       <td>Proatividade</td>
-      <td>★★★★★☆☆☆☆☆</td>
+      <td align="justify">Busquei conhecimento extra para resolução das tarefas do projeto.</td>
     </tr>
     <tr>
       <td>Visão de Negócio</td>
@@ -126,7 +125,7 @@
     </tr>
     <tr>
       <td>Comunicação</td>
-      <td>★★★★★☆☆☆☆☆</td>
+      <td align="justify">Precisei me comunicar com a equipe sobre as tarefas buscando clareza e simplicidade para um melhor entendimento.</td>
     </tr>
     <tr>
       <td>Organização</td>
