@@ -103,7 +103,7 @@
     </tr>
     <tr>
       <td>Visão de Negócio</td>
-      <td align="justify">Durante o trabalho em equipe, percebi como pode variar o entendimento de uma tarefa de um integrante para outro, o que me ressaltou a importância da comunicação./td>
+      <td align="justify">Durante o trabalho em equipe, percebi como pode variar o entendimento de uma tarefa de um integrante para outro, o que me ressaltou a importância da comunicação.</td>
     </tr>
     <tr>
       <td>Comunicação</td>
