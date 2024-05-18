@@ -108,15 +108,7 @@
     <tr>
       <td>Comunicação</td>
       <td align="justify">Precisei me comunicar com a equipe sobre as tarefas buscando clareza e simplicidade para um melhor entendimento.</td>
-    </tr>
-    <tr>
-      <td>Organização</td>
-      <td>★★★★★☆☆☆☆☆</td>
-    </tr>
-    <tr>
-      <td>Planejamento</td>
-      <td>★★★★★☆☆☆☆☆</td>
-    </tr>
+    </tr>    
   </table>
   
 ---
