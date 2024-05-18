@@ -36,34 +36,7 @@
   
   <p align="justify" style="font-family:roboto;"> O primeiro passo foi a configuração do ambiente Java, para a qual, foi utilizado o <a href="https://start.spring.io/">Sprint Initializr</a> para estruturar o projeto com Spring Boot 2.5.4, Java 11 e Maven. Logo, adicionamos todas as dependências necessárias no arquivo POM.xml, sendo as mais importantes: o driver de conexão com o Banco de Dados MySQL (mysql-connector-java), o JPA (spring-boot-starter-data-jpa), o Spring Boot Starter Web (spring-boot-starter-web) e o Spring Boot Starter Websocket (spring-boot-starter-websocket).</p>
   
-  <p align="justify" style="font-family:roboto;"> Com isso finalizado e versionado no GitHub, focamos em decidir a Arquitetura e padrões de projetos que implementaríamos. Logo, optamos pela arquitetura Modelo-Visão-Controle (MVC), em que separamos o sistema em componentes interligados que são essenciais para uma melhora na conexão entre as camadas de dados, lógica de negócio e iteração com o usuário.</p>
-  <details>
-  <summary>Clique aqui para visualizar a Lógica Arquitetural MVC</summary>
-  <br>
-   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/Portfolio/blob/main/images/DiagramaArq.png" width="500px;" alt=""/>
-  </details>
-  
-  <ul>
-  <li> Model: são representações das tabelas do Banco de Dados MySQL. Resultando em uma melhor validação dos dados e facilitação com consultas, inserções e atualizações na Database;
-  </li>
-    
-  <li> Repositories: são interfaces que tem como função serem camadas de acesso a dados. Eles extendem o JpaRepository, portanto há um melhor e mais fácil acesso aos métodos de manipulação dos dados na Database. Além de permitirem realizar comandos SQL customizados de acordo com a necessidade da funcionalidade;
-  </li>
-    
-  <li> Services: são classes que concentram os métodos do Repository, visto que tem essa interface injetada com a anotação @Autowired. Sendo adicionados neles a lógica essencial para regra de negócio imposta pelo cliente, além de contribuirem muito para organização dos métodos utilizados pela interface;
-  </li>
-    
-  <li> Controllers: são as classes onde se encontram os Endpoints do Back-End que serão utilizados para interação com o Front-End, isso corre pela chamada de rotas presentes em seus métodos, pela anotação @RequestMapping("/rota-exemplo"). Ademais, contém os Services necessários injetados com a anotação @Autowired e utiliza das chamadas dos métodos dessas classes para realização da lógica desenvolvida.
-  </li>
-  </ul>
-  
-  <p align="justify" style="font-family:roboto;"> Foi implementado o padrão de projeto Proxy, uma vez que controlamos o acesso aos objetos nas requisições com as anotações do Spring Boot. Aplicado nos Repositories do sistema, no qual é uma interface que simplifica as funcionalidades das classes da Java Persistence API (JPA).</p>
-  <details>
-  <summary>Clique aqui para visualizar o Padrão de Projeto Proxy</summary>
-  <br>
-   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/Portfolio/blob/main/images/PadraoProxy.png" width="800px;" alt=""/>
-  </details>
-  
+ 
   <p align="justify" style="font-family:roboto;"> A seguir, foram configuradas as Properties, para as quais foram aplicadas a conexão com a Base de Dados MySQL. Declaramos a versão da linguagem do Banco (org.hibernate.dialect.MySQL5InnoDBDialect).</p>
   <details>
   <summary>Clique aqui para visualizar as Properties</summary>
@@ -112,28 +85,16 @@
   <h3 align="center">Soft Skills</h3>
   <table align="center">
     <tr>
-      <th width="300px">Habilidade</th>
-      <th width="300px">Classificação</th>
+      <th width="200px">Habilidade</th>
+      <th width="400px">Classificação</th>
     </tr>
     <tr>
       <td>Proatividade</td>
       <td align="justify">Busquei conhecimento extra para resolução das tarefas do projeto.</td>
     </tr>
     <tr>
-      <td>Visão de Negócio</td>
-      <td>★★★★★☆☆☆☆☆</td>
-    </tr>
-    <tr>
       <td>Comunicação</td>
       <td align="justify">Precisei me comunicar com a equipe sobre as tarefas buscando clareza e simplicidade para um melhor entendimento.</td>
-    </tr>
-    <tr>
-      <td>Organização</td>
-      <td>★★★★★☆☆☆☆☆</td>
-    </tr>
-    <tr>
-      <td>Planejamento</td>
-      <td>★★★★★☆☆☆☆☆</td>
     </tr>
   </table>
     
