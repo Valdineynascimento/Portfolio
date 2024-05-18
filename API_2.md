@@ -94,8 +94,8 @@
   <h3 align="center">Soft Skills</h3>
   <table align="center">
     <tr>
-      <th width="300px">Habilidade</th>
-      <th width="300px">Classificação</th>
+      <th width="200px">Habilidade</th>
+      <th width="400px">Classificação</th>
     </tr>
     <tr>
       <td>Proatividade</td>
