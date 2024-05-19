@@ -1,15 +1,14 @@
 <html>
 <body>
   
-  <h1 align="center"> API 4º Semestre - 02/2021</h1>
-<a href="https://github.com/GabrielSG20/API4Sem2021"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
+  <h1 align="center"> API 5º Semestre - 02/2023</h1>
+<a href="https://github.com/GroupHextech/HEXTECH-API5sem"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
 
   <h2> Parceiro Acadêmico: <a href="https://www.oracle.com/br/index.html">Oracle</a></h2>
   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
-  <p align="justify" style="font-family:roboto;"> :calendar: <b>Hey Alexia</b> é uma parceria entre a <a href="https://www.oracle.com/br/index.html">Oracle</a> e a FATEC São José dos Campos com a finalidade de desenvolvimento de um sistema para auxiliar a Gestao na tomada de decisão através de análise de Dados da empresa de Calçados denominada Hey Alexia, com a importação de arquivos para segmentação e verificação das informações e permitir visualizar gráficos e dados referentes à estas segmentações..</p>
-  <p align="justify" style="font-family:roboto;"> O Admin é quem tem o controle sobre a aprovação ou recusa de eventos no calendário, podendo priorizar os que estiverem marcados na mesma data, hora e local, além de ter acesso à relatórios sobre os eventos realizados e conseguindo cadastrar novos fornecedores (empresas terceirizadas) para apoio aos organizadores. O Usuário Organizador poderá agendar eventos nos espaços diponíveis preenchendo as informações necessárias, podendo criar uma lista de convidados adicionando os e-mails dos remententes no cadastro, além de ser capaz de visualizar os contatos dos fornecedores disponíveis. O Interno conseguirá se inscrever para eventos abertos ao público em geral ou os quais foi convidado, também tem acesso a solicitar permissão para se tornar Oraganizador, visto que é obrigatório esse usuário ter um e-mail Oracle. Já o Externo se destinará ao público em geral que deseja participar dos eventos abertos, sendo capaz de apenas visualizar o calendário e se inscrever nas palestras de seu interesse.</p>
+  <p align="justify" style="font-family:roboto;"> O objetivo do projeto foi criar uma plataforma online que permita aos proprietários de restaurantes gerir as suas operações de forma eficiente e intuitiva. Construindo um sistema abrangente que ofereça recursos como dashboards, gráficos, relatórios e funcionalidades para gerenciamento de pessoal, fornecedores e suprimentos.</p>
   
   <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
    
@@ -28,51 +27,24 @@
   <p align="justify" style="font-family:roboto;"> É uma ferramenta para projetos UI com excelentes recursos de Design, Prototipagem, Colaboração, Plug-in de Sistema de Projeto, entre outros. Foi empregado pela nossa equipe para realização da metodologia Product Backlog Building (PBB) e criação das Wireframes.</p></li>          
   
   <li><a href="https://www.oracle.com/br/cloud/">Oracle Cloud</a>:
-   <p align="justify" style="font-family:roboto;"> É um serviço de computação em nuvem oferecido pela Oracle Corporation. Foi usado para o deploy do Back-End e Banco de Dados Oracle do projeto.</p></li>
+   <p align="justify" style="font-family:roboto;"> É um serviço de computação em nuvem oferecido pela Oracle Corporation. Foi usado para o deploy do Back-End e Banco de Dados Mysql do projeto.</p></li>
        
   
   
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
   
-  <h3> Atribuições como Desenvolvedor Back-end</h3>
-  <p align="justify" style="font-family:roboto;"> Como Desenvolvedor Back-End, as atribuições foram relacionadas com a elaboração do Modelo Entidade Relacionamento(MER), Modelo lógico e acompanhei a construção de toda a lógica do sistema web planejado, tendo em vista as regras de negócio propostas pelo cliente. Com a criação dos Endpoints utilizados na interação com o Front-End, foi obtida uma solução completa com todas as funcionalidades necessárias.</p>
+  <h3> Atribuições como Desenvolvedor</h3>
+  <p align="justify" style="font-family:roboto;"> Como Desenvolvedor, as atribuições foram relacionadas em sua maior parte com a elaboração dos dashboards da aplicação utilizando <a href="https://powerbi.microsoft.com/pt-br/desktop/"> Microsoft Power BI</a>, tendo em vista as regras de negócio propostas pelo cliente. Cada criação de dashboard foi obtida levando em conta as metricas relavantes para o cliente com isso tornando a solução completa com os insights necessários.</p>
   
-  <p align="justify" style="font-family:roboto;"> O primeiro passo foi a configuração do ambiente Java, para qual, foi utilizado o <a href="https://start.spring.io/">Sprint Initializr</a> para estruturar o projeto com Spring Boot 2.6.6, Java e Gradle. Logo, adicionamos todas as dependências necessárias no arquivo build.gradle, sendo as mais importantes: o driver de conexão com o Banco de Dados Oracle (ojdbc8), o JPA (spring-boot-starter-data-jpa) e o Spring Boot Starter Web (spring-boot-starter-web).</p>
-  
-  <p align="justify" style="font-family:roboto;"> Com isso finalizado e versionado no GitHub, focamos em decidir a Arquitetura e padrões de projetos que implementaríamos. Optamos pela arquitetura Modelo-Visão-Controle (MVC), em que separamos o sistema em componentes interligados que são essenciais para uma melhora na conexão entre as camadas de dados, lógica de negócio e iteração com o usuário.</p>
-  <details>
-  <summary>Clique aqui para visualizar a Lógica Arquitetural MVC</summary>
-  <br>
-   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/Portfolio/blob/main/Imagens/DiagramaArq.png" width="500px;" alt=""/>
-  </details>
-  
-  <ul>
-  <li> <p align="justify" style="font-family:roboto;">Model: são representações das tabelas do Banco de Dados Oracle, tendo seus campos e relações mapeadas pelo Hibernate. Resultando em uma melhor validação dos dados e facilitação com consultas, inserções e atualizações na Database;</p>
-  </li>
-    
-  <li> <p align="justify" style="font-family:roboto;">Repositories: são interfaces que tem como função serem camadas de acesso a dados. Eles extendem o JpaRepository, portanto há um melhor e mais fácil acesso aos métodos de manipulação dos dados na Database, sendo inserção (save), consulta (listAll), atualização (save) e deleção (deleteById) os que utilizamos no desenvolvimento. Além de permitirem realizar comandos SQL customizados de acordo com a necessidade da funcionalidade;</p>
-  </li>
-    
-  <li> <p align="justify" style="font-family:roboto;">Services: são classes que concentram os métodos do Repository, visto que tem essa interface injetada com a anotação @Autowired. Sendo adicionados neles a lógica essencial para regra de negócio imposta pelo cliente, como por exemplo o envio de e-mails, além de contribuirem muito para organização dos métodos utilizados pela interface;</p>
-  </li>
-    
-  <li> <p align="justify" style="font-family:roboto;">Controllers: são as classes onde se encontram os Endpoints do Back-End que serão utilizados para interação com o Front-End, isso corre pela chamada de rotas presentes em seus métodos, pela anotação @RequestMapping("/rota-exemplo"). Contém os Services necessários injetados com a anotação @Autowired e utiliza das chamadas dos métodos dessas classes para realização da lógica desenvolvida.</p>
-  </li>
-  </ul>
-  
-  <p align="justify" style="font-family:roboto;"> Ademais, utilizarmos a arquitetura REST, visto que a comunicação entre as aplicações ocorre com requisições HTTP, podendo ser perceptível pelas rotas nos controllers. Nesse ponto, também foi implementado o padrão de projeto Proxy, uma vez que controlamos o acesso aos objetos nas requisições com as anotações do Spring Boot. Além do uso do padrão Facade, aplicado nos repositórios do sistema, sendo uma interface que simplifica as funcionalidades das classes da Java Persistence API (JPA).</p>
-  <details>
-  <summary>Clique aqui para visualizar o Padrão de Projeto Proxy</summary>
-  <br>
-   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/Portfolio/blob/main/Imagens/PadraoProxy.png" width="800px;" alt=""/>
-  </details>  
+  <p align="justify" style="font-family:roboto;"> O primeiro passo foi a configuração do ambiente Java, para qual, foi utilizado o <a href="https://start.spring.io/">Sprint Initializr</a> para estruturar o projeto com Spring Boot 3.1.3, Java 17 e Maven. Logo, adicionamos todas as dependências necessárias no arquivo Pom.xml, sendo as mais importantes: o driver de conexão com o Banco de Dados Oracle (ojdbc8), o JPA (spring-boot-starter-data-jpa) e o Spring Boot Starter Web (spring-boot-starter-web).</p>
      
   <p align="justify" style="font-family:roboto;"> A seguir foram configuradas as Properties, para as quais foram aplicadas a conexão com a Base de Dados Oracle que está em
-  nuvem no Oracle Cloud. Além de declarar: o driver utilizado (oracle.jdbc.OracleDriver), a versão da linguagem do Banco (Oracle10Dialect), a maneira que o hibernate vai ler os Models (validate) e a porta que será rodado o serviço (PORT:8081).</p>
+  nuvem no Oracle Cloud. Além de declarar: o driver utilizado (oracle.jdbc.OracleDriver), a versão da linguagem do Banco (Oracle12cDialect), a maneira que o hibernate vai ler os Models (validate) e a porta que será rodado o serviço (PORT:8080).</p>
   <details>
   <summary>Clique aqui para visualizar as Properties</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/Portfolio/blob/main/Imagens/Properties-VPC.png" width="800px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/Portfolio/blob/main/Imagens/configuracaoDependenciasAPI5-1.png" width="800px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/Portfolio/blob/main/Imagens/configuracaoDependenciasAPI5-2.png" width="800px;" alt=""/>
   </details>   
    
    
@@ -86,55 +58,47 @@
     </tr>
     <tr>
       <td>Metodologia Scrum</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>
     <tr>
       <td>Java</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>
     <tr>
       <td>Spring Boot</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>
     <tr>
       <td>Oracle</td>
-      <td>★★★★★☆☆☆☆☆</td>
+      <td>Sei fazer com ajuda</td>
     </tr>
     <tr>
       <td>Cloud</td>
-      <td>★★★★☆☆☆☆☆☆</td>
+      <td>Entendi</td>
     </tr>
-     <tr>
+    <tr>
+      <td>PowerBI</td>
+      <td>Sei fazer com ajuda</td>
+    </tr>
+    <tr>
       <td>GIT</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>Entendi</td>
     </tr>
   </table>
   
-  <h3 align="center">Soft Skills</h3>
+ <h3 align="center">Soft Skills</h3>
   <table align="center">
     <tr>
-      <th width="300px">Habilidade</th>
-      <th width="300px">Classificação</th>
+      <th width="200px">Habilidade</th>
+      <th width="400px">Classificação</th>
     </tr>
     <tr>
       <td>Proatividade</td>
-      <td>★★★★★☆☆☆☆☆</td>
-    </tr>
-    <tr>
-      <td>Visão de Negócio</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td align="justify">Busquei conhecimento extra para resolução das tarefas do projeto.</td>
     </tr>
     <tr>
       <td>Comunicação</td>
-      <td>★★★★★★☆☆☆☆</td>
-    </tr>
-    <tr>
-      <td>Organização</td>
-      <td>★★★★★★☆☆☆☆</td>
-    </tr>
-    <tr>
-      <td>Planejamento</td>
-      <td>★★★★★☆☆☆☆☆</td>
+      <td align="justify">Precisei me comunicar com a equipe sobre as tarefas buscando clareza e simplicidade para um melhor entendimento.</td>
     </tr>
   </table>
   
