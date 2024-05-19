@@ -35,6 +35,11 @@
   
   <h3> Atribuições como Desenvolvedor</h3>
   <p align="justify" style="font-family:roboto;"> Como Desenvolvedor, as atribuições foram relacionadas em sua maior parte com a elaboração dos dashboards da aplicação utilizando <a href="https://powerbi.microsoft.com/pt-br/desktop/"> Microsoft Power BI</a>, tendo em vista as regras de negócio propostas pelo cliente. Cada criação de dashboard foi obtida levando em conta as metricas relavantes para o cliente com isso tornando a solução completa com os insights necessários.</p>
+  <details>
+  <summary>Clique aqui para visualizar video do projeto</summary>
+  <br>
+      <img src="https://github.com/Valdineynascimento/Portfolio/blob/main/images/ProjectOperationSprint4.gif" width=""/>
+  </details>
   
   <p align="justify" style="font-family:roboto;"> O primeiro passo foi a configuração do ambiente Java, para qual, foi utilizado o <a href="https://start.spring.io/">Sprint Initializr</a> para estruturar o projeto com Spring Boot 3.1.3, Java 17 e Maven. Logo, adicionamos todas as dependências necessárias no arquivo Pom.xml, sendo as mais importantes: o driver de conexão com o Banco de Dados Oracle (ojdbc8), o JPA (spring-boot-starter-data-jpa) e o Spring Boot Starter Web (spring-boot-starter-web).</p>
      
@@ -43,8 +48,8 @@
   <details>
   <summary>Clique aqui para visualizar as Properties</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/Portfolio/blob/main/Imagens/configuracaoDependenciasAPI5-1.png" width="800px;" alt=""/>
-   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/Portfolio/blob/main/Imagens/configuracaoDependenciasAPI5-2.png" width="800px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/Portfolio/blob/main/images/configuracaoDependenciasAPI5-1.png" width="800px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/Portfolio/blob/main/images/configuracaoDependenciasAPI5-2.png" width="800px;" alt=""/>
   </details>   
    
    
@@ -93,12 +98,20 @@
       <th width="400px">Classificação</th>
     </tr>
     <tr>
+      <td>Organização</td>
+      <td align="justify">Precisei me organizar e planejar para poder ser eficaz no desenvolvimento do projeto.</td>
+    </tr>
+    <tr>
       <td>Proatividade</td>
       <td align="justify">Busquei conhecimento extra para resolução das tarefas do projeto.</td>
     </tr>
     <tr>
       <td>Comunicação</td>
       <td align="justify">Precisei me comunicar com a equipe sobre as tarefas buscando clareza e simplicidade para um melhor entendimento.</td>
+    </tr>
+    <tr>
+      <td>Trabalho em Equipe</td>
+      <td align="justify">Precisei adaptar a forma de trabalhar para melhor contribuir com a equipe no desenvolimento do projeto.</td>
     </tr>
   </table>
   
