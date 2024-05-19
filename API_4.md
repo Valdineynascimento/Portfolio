@@ -1,7 +1,7 @@
 <html>
 <body>
   
-  <h1 align="center"> API 4º Semestre - 02/2021</h1>
+  <h1 align="center"> API 4º Semestre - 01/2022</h1>
     <a href="https://github.com/EquipeFatec/api"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
 
   <h2> Parceiro Acadêmico: <a href="https://www.oracle.com/br/index.html">Oracle</a></h2>
