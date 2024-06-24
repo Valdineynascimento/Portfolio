@@ -8,9 +8,9 @@
   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
-  <p align="justify" style="font-family:roboto;"> Compreender as nuances dos desejos dos clientes torna-se crucial para o sucesso. As avaliações online, neste contexto, assumem a forma de um tesouro de insights, revelando a satisfação, as expectativas e, por vezes, as frustrações dos consumidores. Diante desse cenário, o desafio deste semestre é o desenvolvimento de um aplicativo inovador que, por meio de inteligência artificial, faça uma análise aprofundada desses comentários, classificando-os em positivos, neutros e negativos. Ao integrar estes dados na base de dados, será possível extrair insights valiosos que impulsionarão a tomada de decisões estratégicas e melhorarão a experiência do cliente.</p>
+  <p align="justify" style="font-family:roboto;"> Compreender os desejos dos clientes torna-se crucial para o sucesso do negócio. As avaliações online, neste contexto, assumem a forma de um tesouro de insights, revelando a satisfação, as expectativas e, por vezes, as frustrações dos consumidores. Diante desse cenário, o desafio envolveu o desenvolvimento de um aplicativo inovador que, por meio de inteligência artificial, faça uma análise aprofundada desses comentários, classificando-os em positivos, neutros e negativos. Ao integrar essa classificação a base de dados, possibilitou a extração insights valiosos que impulsionaram a tomada de decisões estratégicas e com isso melhorar a experiência do cliente.</p>
 
-  <p align="justify" style="font-family:roboto;"> Nossa proposta é o HexAnalytics, uma plataforma que irá analisar automaticamente os comentários, classificando-os em positivos, neutros e negativos. Os resultados desta análise serão integrados na base de dados e a plataforma apresentará painéis gráficos relevantes para obter informações valiosas sobre os dados e sentimentos dos clientes.</p>
+  <p align="justify" style="font-family:roboto;"> Nossa proposta foi a HexAnalytics, uma plataforma empregada para analisar automaticamente os comentários, classificando-os em positivos, neutros e negativos. Os resultados dessa análise são integrados à base de dados, permitindo que a plataforma gere painéis gráficos intuitivos e informativos. Através desses painéis, é possível obter insights valiosos sobre os dados e sentimentos dos clientes, aprimorando a tomada de decisões e o relacionamento com o público.</p>
   
   <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
    
@@ -19,7 +19,7 @@
     <p align="justify" style="font-family:roboto;"> É uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. Foi utilizada para codificação de scripts de ETL (Extract, Transform, Load) do sistema, realizando a carga dos dados para o MongoDB.</p></li>
       
   <li><a href="https://www.mongodb.com/">MongoDB</a>:
-  <p align="justify" style="font-family:roboto;"> É um software de banco de dados NoSQL orientado a documentos, de código aberto e schema free. Foi utilizado para armazenamento das informações oferecidas pelo cliente, além do tratamento dos dados usando a ferramenta Aggregation Framework.</p></li>
+  <p align="justify" style="font-family:roboto;"> É um software de bancos de dados NoSQL orientado a documentos, de código aberto e schema free. Foi utilizado para armazenamento das informações oferecidas pelo cliente, além do tratamento dos dados usando a ferramenta Aggregation Framework.</p></li>
         
   <li><a href="https://www.figma.com/">Figma</a>:
   <p align="justify" style="font-family:roboto;"> É uma ferramenta para projetos UI com excelentes recursos de Design, Prototipagem, Colaboração, Plug-in de Sistema de Projeto, entre outros. Foi empregado pela nossa equipe para realização da metodologia Product Backlog Building (PBB) e criação das Wireframes.</p></li>          
@@ -84,7 +84,7 @@
     </tr>
     <tr>
       <td>Trabalho em Equipe</td>
-      <td align="justify">Precisei adaptar a forma de trabalhar para melhor contribuir com a equipe no desenvolimento do projeto.</td>
+      <td align="justify">Precisei adaptar a forma de trabalhar para melhor contribuir com a equipe no desenvolvimento do projeto.</td>
     </tr>
   </table>
   
