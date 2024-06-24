@@ -8,20 +8,20 @@
   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
-  <p align="justify" style="font-family:roboto;"> O objetivo do projeto foi criar uma plataforma online que permita aos proprietários de restaurantes gerir as suas operações de forma eficiente e intuitiva. Construindo um sistema abrangente que ofereça recursos como dashboards, gráficos, relatórios e funcionalidades para gerenciamento de pessoal, fornecedores e suprimentos.</p>
+  <p align="justify" style="font-family:roboto;"> O objetivo do projeto foi criar uma plataforma online que permita aos proprietários de restaurantes gerir as suas operações de forma eficiente e intuitiva. Foi construído um sistema abrangente que ofereçe recursos como dashboards, gráficos, relatórios e funcionalidades para gerenciamento de pessoal, fornecedores e suprimentos.</p>
   
   <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
    
   <ul>
   <li><a href="https://www.java.com/pt_BR/">Java</a>:
-    <p align="justify" style="font-family:roboto;"> Linguagem de programação utilizada para o desenvolvimento Back-End do sistema, apresenta como principais características: Portabilidade, Robustez, Segurança, Orientação a Objetos, Dinâmica e Alto Desempenho. Foi um requisito técnico solicitado pelo cliente.</p></li>
+    <p align="justify" style="font-family:roboto;"> Foi a linguagem de programação utilizada para o desenvolvimento do Back-End do sistema, apresenta como principais características: Portabilidade, Robustez, Segurança, Orientação a Objetos, Dinâmica e Alto Desempenho. Foi um requisito técnico solicitado pelo cliente.</p></li>
     
   <li><a href="https://spring.io/">Spring Boot</a>:
-    <p align="justify" style="font-family:roboto;"> É um framework open source para Java, aplicado para facilitar a configuração e gerenciamento das dependências do projeto. Logo melhorando a produtividade e agilidade no processo de desenvolvimnto da aplicação.</p></li>  
+    <p align="justify" style="font-family:roboto;"> É um framework open source para Java, aplicado para facilitar a configuração e gerenciamento das dependências do projeto. Logo melhorando a produtividade e agilidade no processo de desenvolvimento da aplicação.</p></li>  
   
   
   <li><a href="https://www.oracle.com/tools/downloads/sqldev-downloads.html">Oracle SQL Developer</a>:
-  <p align="justify" style="font-family:roboto;"> Na parte de armazenamento de dados, foi utilizado o Oracle Database, um SGBD relacional, escolhido por atender todas as necessidades do projeto e ser uma ferramenta da empresa parceira. Para trabalhar com scripts SQL nessa Base de Dados selecionada, usamos o Oracle SQL Developer, um ambiente de desenvolvimento integrado com o Bancos de Dados Oracle.</p></li>
+  <p align="justify" style="font-family:roboto;"> Na parte de armazenamento de dados, foi utilizado o Oracle Database, escolhido por ser um SGBD relacional, por atender todas as necessidades do projeto e ser uma ferramenta da empresa parceira. Para trabalhar com scripts SQL em nossa base de dados usamos o Oracle SQL Developer, um ambiente de desenvolvimento integrado com o Bancos de Dados Oracle.</p></li>
         
   <li><a href="https://www.figma.com/">Figma</a>:
   <p align="justify" style="font-family:roboto;"> É uma ferramenta para projetos UI com excelentes recursos de Design, Prototipagem, Colaboração, Plug-in de Sistema de Projeto, entre outros. Foi empregado pela nossa equipe para realização da metodologia Product Backlog Building (PBB) e criação das Wireframes.</p></li>          
@@ -111,7 +111,7 @@
     </tr>
     <tr>
       <td>Trabalho em Equipe</td>
-      <td align="justify">Precisei adaptar a forma de trabalhar para melhor contribuir com a equipe no desenvolimento do projeto.</td>
+      <td align="justify">Precisei adaptar a forma de trabalhar para melhor contribuir com a equipe no desenvolvimento do projeto.</td>
     </tr>
   </table>
   
