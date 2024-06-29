@@ -36,7 +36,7 @@
   <h3> Atribuições como Desenvolvedor</h3>
   <p align="justify" style="font-family:roboto;"> Como Desenvolvedor, as atribuições foram relacionadas em sua maior parte com a elaboração dos dashboards da aplicação utilizando <a href="https://powerbi.microsoft.com/pt-br/desktop/"> Microsoft Power BI</a>, tendo em vista as regras de negócio propostas pelo cliente. Cada criação de dashboard foi obtida levando em conta as métricas relevantes para o cliente com isso tornando a solução completa com os insights necessários.</p>
   <details>
-  <summary>Clique aqui para visualizar video do projeto</summary>
+  <summary>Clique aqui para visualizar vídeo do projeto</summary>
   <br>
       <img src="https://github.com/Valdineynascimento/Portfolio/blob/main/images/ProjectOperationSprint4.gif" width=""/>
   </details>
