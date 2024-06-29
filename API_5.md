@@ -8,7 +8,7 @@
   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
-  <p align="justify" style="font-family:roboto;"> O objetivo do projeto foi criar uma plataforma online que permita aos proprietários de restaurantes gerir as suas operações de forma eficiente e intuitiva. Foi construído um sistema abrangente que ofereçe recursos como dashboards, gráficos, relatórios e funcionalidades para gerenciamento de pessoal, fornecedores e suprimentos.</p>
+  <p align="justify" style="font-family:roboto;"> O objetivo do projeto foi criar uma plataforma online que permita aos proprietários de restaurantes gerir as suas operações de forma eficiente e intuitiva. Foi construído um sistema abrangente que oferece recursos como dashboards, gráficos, relatórios e funcionalidades para gerenciamento de pessoal, fornecedores e suprimentos.</p>
   
   <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
    
@@ -34,7 +34,7 @@
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
   
   <h3> Atribuições como Desenvolvedor</h3>
-  <p align="justify" style="font-family:roboto;"> Como Desenvolvedor, as atribuições foram relacionadas em sua maior parte com a elaboração dos dashboards da aplicação utilizando <a href="https://powerbi.microsoft.com/pt-br/desktop/"> Microsoft Power BI</a>, tendo em vista as regras de negócio propostas pelo cliente. Cada criação de dashboard foi obtida levando em conta as metricas relavantes para o cliente com isso tornando a solução completa com os insights necessários.</p>
+  <p align="justify" style="font-family:roboto;"> Como Desenvolvedor, as atribuições foram relacionadas em sua maior parte com a elaboração dos dashboards da aplicação utilizando <a href="https://powerbi.microsoft.com/pt-br/desktop/"> Microsoft Power BI</a>, tendo em vista as regras de negócio propostas pelo cliente. Cada criação de dashboard foi obtida levando em conta as métricas relevantes para o cliente com isso tornando a solução completa com os insights necessários.</p>
   <details>
   <summary>Clique aqui para visualizar video do projeto</summary>
   <br>
