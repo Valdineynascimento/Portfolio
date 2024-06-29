@@ -29,6 +29,12 @@
   
   <h3> Atribuições como Product Owner (PO)</h3>
   <p align="justify" style="font-family:roboto;"> Como Product Owner, conduzi a identificação dos requisitos fundamentais para o backlog do produto, desempenhando um papel de definição do rumo do projeto a comunicação foi fundamental para o sucesso. Fui responsável por transmitir claramente os requisitos do cliente à equipe de desenvolvimento, garantindo que todos compreendessem as expectativas e prioridades. A habilidade de comunicar de forma clara e direta contribuiu para o alinhamento da equipe e o cumprimento dos objetivos do projeto.</p>
+
+  <details>
+  <summary>Clique aqui para visualizar vídeo do projeto</summary>
+  <br>
+      <img src="https://github.com/Valdineynascimento/Portfolio/blob/main/images/Sprint4.gif" width=""/>
+  </details>
         
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
   
