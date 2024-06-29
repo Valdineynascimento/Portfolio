@@ -8,7 +8,7 @@
   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
-  <p align="justify" style="font-family:roboto;"> :calendar: <b>Hey Alexia</b> é uma parceria entre a <a href="https://www.oracle.com/br/index.html">Oracle</a> e a FATEC São José dos Campos com a finalidade de desenvolvimento de um sistema para auxiliar a Gestao na tomada de decisão através de análise de Dados da empresa de Calçados denominada Hey Alexia, com a importação de arquivos para segmentação e verificação das informações e permitir visualizar gráficos e dados referentes à estas segmentações.</p>
+  <p align="justify" style="font-family:roboto;"> :calendar: <b>Hey Alexia</b> é uma parceria entre a <a href="https://www.oracle.com/br/index.html">Oracle</a> e a FATEC São José dos Campos com a finalidade de desenvolvimento de um sistema para auxiliar a Gestão na tomada de decisão através de análise de Dados da empresa de Calçados denominada Hey Alexia, com a importação de arquivos para segmentação e verificação das informações e permitir visualizar gráficos e dados referentes à estas segmentações.</p>
   
   <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
    
@@ -17,7 +17,7 @@
     <p align="justify" style="font-family:roboto;"> Linguagem de programação utilizada para o desenvolvimento Back-End do sistema, apresenta como principais características: Portabilidade, Robustez, Segurança, Orientação a Objetos, Dinâmica e Alto Desempenho. Foi um requisito técnico solicitado pelo cliente.</p></li>
     
   <li><a href="https://spring.io/">Spring Boot</a>:
-    <p align="justify" style="font-family:roboto;"> É um framework open source para Java, aplicado para facilitar a configuração e gerenciamento das dependências do projeto. Logo melhorando a produtividade e agilidade no processo de desenvolvimnto da aplicação.</p></li>  
+    <p align="justify" style="font-family:roboto;"> É um framework open source para Java, aplicado para facilitar a configuração e gerenciamento das dependências do projeto. Logo melhorando a produtividade e agilidade no processo de desenvolvimento da aplicação.</p></li>  
   
   
   <li><a href="https://www.oracle.com/tools/downloads/sqldev-downloads.html">Oracle SQL Developer</a>:
@@ -34,7 +34,7 @@
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
   
   <h3> Atribuições como Desenvolvedor Back-end</h3>
-  <p align="justify" style="font-family:roboto;"> Como Desenvolvedor Back-End, as atribuições foram relacionadas com a elaboração do Modelo Entidade Relacionamento(MER), Modelo lógico e acompanhei a construção de toda a lógica do sistema web planejado, tendo em vista as regras de negócio propostas pelo cliente. Com a criação dos Endpoints utilizados na interação com o Front-End, foi obtida uma solução completa com todas as funcionalidades necessárias.</p>
+  <p align="justify" style="font-family:roboto;"> Como Desenvolvedor Back-End, as atribuições foram relacionadas com a elaboração do Modelo Entidade Relacionamento (MER), Modelo lógico e acompanhei a construção de toda a lógica do sistema web planejado, tendo em vista as regras de negócio propostas pelo cliente. Com a criação dos endpoints utilizados na interação com o Front-End, foi obtida uma solução completa com todas as funcionalidades necessárias.</p>
   
   <p align="justify" style="font-family:roboto;"> O primeiro passo foi a configuração do ambiente Java, para qual, foi utilizado o <a href="https://start.spring.io/">Sprint Initializr</a> para estruturar o projeto com Spring Boot 2.6.6, Java e Gradle. Logo, adicionamos todas as dependências necessárias no arquivo build.gradle, sendo as mais importantes: o driver de conexão com o Banco de Dados Oracle (ojdbc8), o JPA (spring-boot-starter-data-jpa) e o Spring Boot Starter Web (spring-boot-starter-web).</p>
    
