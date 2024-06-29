@@ -55,7 +55,7 @@
     </details></ul>
     
   <ul>
-  <li><p align="justify" style="font-family:roboto;"> Fiquei responsável por criar o repositório e colocar as informações do projeto no Github. Como não conhecia a ferramenta, primeiramente fiz um cursinho basico de Github disponibilizado gratuitamente pela <a href="https://www.dio.me/">Digital Innovation One</a> para cumprir a tarefa.</ul></li></p>
+  <li><p align="justify" style="font-family:roboto;"> Fiquei responsável por criar o repositório e colocar as informações do projeto no Github. Como não conhecia a ferramenta, primeiramente fiz um cursinho básico de Github disponibilizado gratuitamente pela <a href="https://www.dio.me/">Digital Innovation One</a> para cumprir a tarefa.</ul></li></p>
   <ul>
     <details>
     <summary>Github Coffeend</summary>
